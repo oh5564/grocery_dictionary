@@ -57,6 +57,14 @@
 
 ---
 
+
 ## 🔗 프로젝트 GitHub
 [https://github.com/oh5564/grocery_dictionary](https://github.com/oh5564/grocery_dictionary)
+
+---
+
+## 🎥 시연 영상
+
+[👉 시연 영상 보러가기](https://github.com/oh5564/grocery_dictionary/blob/main/images/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
+
 
