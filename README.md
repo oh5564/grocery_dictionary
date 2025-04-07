@@ -66,5 +66,5 @@
 
 ## 🎥 시연 영상
 
-[👉 시연 영상 보러가기](https://github.com/oh5564/grocery_dictionary/blob/master/images/시연.mp4)
+[👉 시연 영상 보러가기](https://github.com/oh5564/grocery_dictionary/blob/master/images/Demonstraion.mp4)
 
