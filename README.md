@@ -1,7 +1,7 @@
 # 🥕 식료품 사전 (Grocery Dictionary)
 
 > **Google Cloud Vision API를 활용한 식재료 인식 + 요리법 추천 Android 앱**  
-> 3인 팀 프로젝트 (개발 기간: 약 20주)
+> 개발 기간: 2022년 4월 ~ 2022년 6월 (3인 팀 프로젝트)
 
 ---
 
@@ -54,3 +54,9 @@
 
 - Android Studio로 개발한 **실제 실행 가능한 앱**
 - 졸업작품 으로 개발한 두 번째 프로젝트로, 실생활 문제 해결에 중점
+
+---
+
+## 🔗 프로젝트 GitHub
+[https://github.com/oh5564/grocery_dictionary](https://github.com/oh5564/grocery_dictionary)
+
